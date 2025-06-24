@@ -1,0 +1,7 @@
+# ROS2 ZMQ Bridge Configuration
+# Create this file manually with the IP of your ROS1 bridge
+
+# ROS1 Bridge IP Configuration
+# ros1_ip: IP address of the ROS1 bridge to connect to
+# Ports are hardcoded: 5555 (pub to ROS1), 5556 (sub from ROS1)
+ros1_ip: ''
